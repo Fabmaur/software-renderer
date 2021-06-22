@@ -1,0 +1,6 @@
+{
+    "name": "software-renderer",
+    "version": "0.1.0",
+    "description": "Software renderer using SFML with c++.",
+    "dependencies": [ "sfml" ]
+}
